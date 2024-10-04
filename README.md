@@ -1,5 +1,6 @@
 # Intro
-This is a small project created by mtc.berlin. In 09.2019 - 01.2020 by [Tatjana Stojadinovic](https://www.linkedin.com/in/tatjana-stojadinovic) as an internship with the help of [Marc Haus](https://www.linkedin.com/in/marc-haus/) and [John-Pierre Debray](https://www.linkedin.com/in/john-pierre-d-079a72183/). 
+This is a small project created by mtc.berlin. In 09.2019 - 01.2020 by [Tatjana Stojadinovic](https://www.linkedin.com/in/tatjana-stojadinovic) as an intern 
+with the help of [Marc Haus](https://www.linkedin.com/in/marc-haus/) and [John-Pierre Debray](https://www.linkedin.com/in/john-pierre-d-079a72183/). 
 
 The project was succesful. The vizualisation was beautiful and smooth. But we stopped here and never refactored the code or created a stable version for the web. 
 
